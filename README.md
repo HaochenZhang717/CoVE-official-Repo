@@ -35,7 +35,7 @@ Official implementation for our ACL 2025 paper:
 
 </div>
 
-*Table 1: Performance comparison across Beauty, Toys, and Sports datasets. <u>underlined</u> shows best baseline performance.*
+*Table 1: Performance comparison across Beauty, Toys, and Sports datasets. bold font shows best performance.*
 
 ---
 
