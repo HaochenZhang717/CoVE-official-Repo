@@ -36,7 +36,7 @@ CoVE is a lightweight yet powerful vocabulary compression technique that enhance
 
 <div align="center" style="overflow-x: auto;">
 
-| Dataset  | Metric | GRU4Rec | BERT4Rec | Caser | SASRec | P5 | HGN | S³-Rec | FDSA | TIGER | <span style="color:#2ecc71;font-weight:bold">CoVE</span> |
+| Dataset  | Metric | GRU4Rec | BERT4Rec | Caser | SASRec | P5 | HGN | S³-Rec | FDSA | TIGER | <span style="color:#2ecc71;font-weight:bold">CoVE-2</span> |
 |----------|--------|---------|----------|-------|--------|----|-----|--------|------|-------|-------|
 | **Beauty** | NG5 | 0.0099 | 0.0124 | 0.0131 | 0.0249 | 0.0107 | 0.0206 | 0.0244 | 0.0163 | <u>0.0321</u> | <span style="color:#2ecc71">**0.0498**</span> |
 |          | NG10 | 0.0137 | 0.0170 | 0.0176 | 0.0318 | 0.0136 | 0.0266 | 0.0327 | 0.0208 | <u>0.0384</u> | <span style="color:#2ecc71">**0.0593**</span> |
@@ -53,7 +53,7 @@ CoVE is a lightweight yet powerful vocabulary compression technique that enhance
 
 </div>
 
-*Table 1: Comparison on benchmark datasets. Green = CoVE (rate=2), Underlined = best non-CoVE baseline.*
+*Table 1: Comparison on benchmark datasets.*
 
 **Key Takeaways:**
 - 🚀 CoVE consistently **outperforms** all baselines across datasets
