@@ -1,7 +1,7 @@
 # CoVE-official-Repo
 official implementation for ACL 2025 paper "CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems"
 
-![GitHub Logo]([https://github.com/HaochenZhang717/CoVE-official-Repo/figure-1.png](https://github.com/HaochenZhang717/CoVE-official-Repo/blob/main/figure-1.png))
+!([https://github.com/HaochenZhang717/CoVE-official-Repo/figure-1.png](https://github.com/HaochenZhang717/CoVE-official-Repo/blob/main/figure-1.png))
 
 # download data
 because of the dataset's size, it cannot be uploaded to the Repo, please download data from here:
