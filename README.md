@@ -103,7 +103,7 @@ If you find this repository useful, please consider citing our paper:
 ```
 @inproceedings{zhang2025cove,
   title={CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems},
-  author={Zhang, Haochen and Others, Placeholder},
+  author={Zhang, Haochen and Zhang, Tianyi and Yin, Junze and Gal, Oren and Shrivastava, Anshumali and Braverman, Vladimir},
   booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL)},
   year={2025},
   url={https://github.com/HaochenZhang717/CoVE-official-Repo}
