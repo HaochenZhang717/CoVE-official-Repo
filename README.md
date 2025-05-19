@@ -84,14 +84,14 @@ datasets/
 bash install_env.sh
 ```
 
-2. **Run training script** (example below, customize as needed):
+2. **Preprocess dataset and Prepare Tokenizers**:
 ```bash
-python run_cove.py --dataset beauty --compression_rate 2 --epochs 100
+bash get_data_ready.sh
 ```
 
-3. **Evaluation**:
+3. **Run Experiments**:
 ```bash
-python evaluate.py --dataset beauty --model_checkpoint checkpoints/beauty_cr2/
+bash run_all_experiments.sh
 ```
 
 ---
