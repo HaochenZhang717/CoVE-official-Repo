@@ -57,7 +57,6 @@ Key observations:
 Key findings:
 - 🏆 CoVE **outperforms all baselines** across all metrics
 - 📈 Consistent improvements of **20-50%** over best baselines
-- 💡 Particularly strong on **HR@10** metrics
 
 ---
 
@@ -68,3 +67,14 @@ Due to dataset size limitations, please download from:
 🔗 [Google Drive Folder](https://drive.google.com/drive/folders/1h_swkdw4Evp7X4iNaOYczlf_vvCd_Px6?usp=share_link)
 
 📦 File structure:
+
+---
+
+## <img src="https://img.icons8.com/color/48/000000/experimental.png" width="30"/> Reproduction
+
+1. **Install dependencies**:
+```bash
+bash install_env.sh
+2. **Install dependencies**:
+```bash
+bash install_env.sh
