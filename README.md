@@ -35,8 +35,7 @@ Official implementation for our ACL 2025 paper:
 
 </div>
 
-*Table 1: Performance comparison across Beauty, Toys, and Sports datasets.  
-<span style="color:green">**Bold green**</span> indicates CoVE's results (compression rate=2), <u>underlined</u> shows best baseline performance.*
+*Table 1: Performance comparison across Beauty, Toys, and Sports datasets. <u>underlined</u> shows best baseline performance.*
 
 ---
 
