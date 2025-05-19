@@ -12,9 +12,13 @@ Official implementation for our ACL 2025 paper:
 
 ![Methodology Figure](https://github.com/HaochenZhang717/CoVE-official-Repo/raw/main/figure-1.png)
 
+## <img src="https://img.icons8.com/color/48/000000/overview-pages-1.png" width="30"/> CoVE's performance with different compression rate
+
+![Methodology Figure](https://github.com/HaochenZhang717/CoVE-official-Repo/raw/main/compression_rates.png)
+
 ---
 
-## <img src="https://img.icons8.com/color/48/000000/leaderboard.png" width="30"/> Performance Comparison
+## <img src="https://img.icons8.com/color/48/000000/leaderboard.png" width="30"/> Performance Comparison with Baselines
 
 <div align="center">
 
